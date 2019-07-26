@@ -14,3 +14,4 @@ end
 def map_to_square(array)
   array.map{|i| i*i}
 end
+
