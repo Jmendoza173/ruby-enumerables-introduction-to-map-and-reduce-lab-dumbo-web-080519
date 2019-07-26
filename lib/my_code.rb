@@ -8,9 +8,9 @@ def map_to_no_change(array)
 end
 
 def map_to_double(array)
-  array.map{|i| i}
+  array.map{|i| i*2}
 end
 
-def map_to_double(array)
-  array.map{|i| i}
+def map_to_square(array)
+  array.map{|i| i*i}
 end
