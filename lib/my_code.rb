@@ -15,3 +15,4 @@ def map_to_square(array)
   array.map{|i| i*i}
 end
 
+reduce_to_total
