@@ -24,3 +24,6 @@ end
   #source_array.reduce(:+)
 #end
 
+def reduce_to_all_true(source_array)
+  
+end
